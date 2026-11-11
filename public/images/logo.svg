@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Outer Teal/Blue Ring -->
+  <circle cx="60" cy="60" r="56" fill="#0B5394" stroke="#38BDF8" stroke-width="2.5"/>
+  <circle cx="60" cy="60" r="46" fill="#E0F2FE" stroke="#0284C7" stroke-width="1.5"/>
+  <!-- Top Arch Text Simulation -->
+  <path id="topArc" d="M 20,60 A 40,40 0 1,1 100,60" fill="none"/>
+  <text fill="#E0F2FE" font-family="Arial, sans-serif" font-size="6.8" font-weight="bold" letter-spacing="0.9">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">SMK NEGERI 3 PAREPARE</textPath>
+  </text>
+  <!-- Red & Blue Swooshes -->
+  <path d="M18 64C34 52 52 54 62 68C46 62 30 66 18 74Z" fill="#EF4444"/>
+  <path d="M102 64C86 52 68 54 58 68C74 62 90 66 102 74Z" fill="#0284C7"/>
+  <!-- Open Book -->
+  <path d="M32 68C42 64 52 66 60 72C68 66 78 64 88 68L84 86C75 82 67 83 60 88C53 83 45 82 36 86Z" fill="#FFFFFF" stroke="#0369A1" stroke-width="2"/>
+  <line x1="60" y1="72" x2="60" y2="88" stroke="#0369A1" stroke-width="2"/>
+  <!-- Golden Star / Torch Flame -->
+  <polygon points="60,30 63.5,40 74,40 65.5,46 68.5,56 60,50 51.5,56 54.5,46 46,40 56.5,40" fill="#FACC15" stroke="#CA8A04" stroke-width="1"/>
+  <!-- Bottom Ribbon Text -->
+  <text x="60" y="108" text-anchor="middle" fill="#BAE6FD" font-family="Georgia, serif" font-style="italic" font-size="7.5" font-weight="bold">Peduli dan Inovatif</text>
+</svg>
